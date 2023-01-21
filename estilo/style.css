@@ -1,5 +1,16 @@
 @charset 'UTF-8';
 
+@import url('https://fonts.googleapis.com/css2?family= Bebas+Neue & family = Passion+One & display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Explora&family=Passion+One&family=Passions+Conflict&display=swap');
+
+:root {
+    --fonte1: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte2: 'Passion One', cursiva;
+    --fonte3: 'Explora', cursiva;
+
+}
+
 * {
     margin: 0px;
     padding: 0px;
@@ -8,6 +19,7 @@
 html, body {
     min-height: 100vh;
     background-color: darkgray;
+    font-family: var(--fonte1);
 }
 
 header {
@@ -19,6 +31,8 @@ header > h1 {
     padding-top: 50px;
     /* text-transform: uppercase; */
     font-variant: small-caps;
+    font-family: var(--fonte2);
+    font-size:9vw;
 }
 header > p {
     padding-bottom: 50px;
@@ -27,7 +41,14 @@ header > p {
 section {
     padding-top: 10vh;
     padding-bottom: 10vh;
-    line-height: 1.5em;
+    line-height: 2em;
+    padding-left: 30px;
+    font-family: var(--fonte3);
+    font-size: 5vw;
+}
+section > p {
+    padding-bottom: 1.5em;
+    padding-left: 15px;
 }
 
 section.imagem {
@@ -37,13 +58,14 @@ section.imagem {
 }
 
 section.imagem > p {
+    display: inline-block;
     background-color: rgba(0, 0, 0, 0.384);
-    width: 400px;
+    width: 350px;
 }
 
 section.normal {
     color: black;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 a {
