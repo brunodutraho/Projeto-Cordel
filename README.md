@@ -1,37 +1,56 @@
 # 📜 Projeto Cordel
 
-Projeto desenvolvido como parte do **curso de HTML5 e CSS3**, inspirado no estilo literário do **Cordel**.  
-O objetivo foi praticar **estruturação semântica em HTML** e **estilização com CSS**, criando uma página responsiva e visualmente atrativa.
+Projeto desenvolvido como parte dos estudos de **HTML5 e CSS3**, inspirado no estilo literário do **Cordel**.  
+O foco é a prática de **estruturação semântica**, **estilização com CSS** e **responsividade**, aplicando conceitos fundamentais do desenvolvimento web.
 
-🔗 **Acesse o projeto online:** [Projeto Cordel](https://brunodutraho.github.io/Projeto-Cordel/)
+🔗 **Acesse o projeto online:**  
+https://brunodutraho.github.io/Projeto-Cordel/
 
 ---
 
-## 📌 Sobre o projeto
+## 🎯 Objetivo do Projeto
 
-- Estruturação da página com **HTML5**  
+- Praticar a estruturação semântica com HTML5  
+- Aplicar estilização e layout responsivo com CSS3  
+- Trabalhar com imagens e tipografia personalizada  
+- Publicar projetos estáticos utilizando GitHub Pages  
+- Consolidar fundamentos essenciais do desenvolvimento web  
+
+---
+
+## 📌 Sobre o Projeto
+
+- Página desenvolvida com **HTML5**  
 - Estilização e responsividade com **CSS3**  
 - Utilização de imagens e fontes personalizadas  
-- Publicação via **GitHub Pages**  
-- Licença aberta (**MIT**)  
+- Deploy realizado via **GitHub Pages**  
+- Projeto com licença aberta (**MIT**)  
 
 ---
 
-## 📂 Estrutura do repositório
+## 📂 Estrutura do Repositório
 
-- `index.html` → Página principal do projeto  
-- `estilo.css` → Arquivo de estilos CSS  
-- `imagem/` → Diretório para imagens utilizadas  
-- `LICENSE` → Licença MIT  
-- `README.md` → Documentação do projeto  
+index.html  
+estilo.css  
+imagem/  
+LICENSE  
+README.md  
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias Utilizadas
 
-- **HTML5** → Estruturação semântica  
-- **CSS3** → Estilização e layout responsivo  
-- **GitHub Pages** → Deploy e publicação online  
+- **HTML5** – Estruturação semântica  
+- **CSS3** – Estilização e layout responsivo  
+- **GitHub Pages** – Deploy e publicação online  
+
+---
+
+## ▶️ Visualização do Projeto
+
+O projeto pode ser acessado diretamente no navegador pelo link:
+
+https://brunodutraho.github.io/Projeto-Cordel/
 
 ---
 
@@ -39,10 +58,10 @@ O objetivo foi praticar **estruturação semântica em HTML** e **estilização 
 
 Durante o desenvolvimento deste projeto, foram praticados:
 
-- Estruturação semântica de páginas HTML  
-- Aplicação de estilos e responsividade com CSS  
-- Organização de arquivos e diretórios  
-- Deploy simples com **GitHub Pages**  
+- Uso correto de tags semânticas em HTML5  
+- Criação de layouts responsivos com CSS  
+- Organização de arquivos e pastas  
+- Publicação de projetos estáticos com GitHub Pages  
 
 ---
 
@@ -53,4 +72,4 @@ Você pode utilizá-lo, modificá-lo e distribuí-lo livremente, desde que mante
 
 ---
 
-✨ *Projeto simples, mas essencial para consolidar os fundamentos do desenvolvimento web.*
+✨ *Projeto simples, porém fundamental para consolidar a base do desenvolvimento web com HTML e CSS.*
