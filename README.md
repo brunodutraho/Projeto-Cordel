@@ -4,7 +4,7 @@ Projeto desenvolvido como parte dos estudos de **HTML5 e CSS3**, inspirado no es
 O foco é a prática de **estruturação semântica**, **estilização com CSS** e **responsividade**, aplicando conceitos fundamentais do desenvolvimento web.
 
 🔗 **Acesse o projeto online:**  
-https://brunodutraho.github.io/Projeto-Cordel/
+[https://brunodutraho.github.io/Projeto-Cordel/](https://brunodutraho.github.io/Projeto-Cordel/)
 
 ---
 
@@ -30,11 +30,11 @@ https://brunodutraho.github.io/Projeto-Cordel/
 
 ## 📂 Estrutura do Repositório
 
-index.html  
-estilo.css  
-imagem/  
-LICENSE  
-README.md  
+- `index.html`  
+- `estilo.css`  
+- `imagem/`  
+- `LICENSE`  
+- `README.md`  
 
 ---
 
@@ -48,9 +48,16 @@ README.md
 
 ## ▶️ Visualização do Projeto
 
-O projeto pode ser acessado diretamente no navegador pelo link:
+O projeto pode ser acessado diretamente no navegador pelo link:  
+[https://brunodutraho.github.io/Projeto-Cordel/](https://brunodutraho.github.io/Projeto-Cordel/)
 
-https://brunodutraho.github.io/Projeto-Cordel/
+---
+
+## 🖼️ Preview do Projeto
+
+<div align="center">
+  <img src="https://i.postimg.cc/13G7qKRV/cordel.png" alt="Projeto Cordel" height="550"/>
+</div>
 
 ---
 
